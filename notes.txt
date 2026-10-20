@@ -1,0 +1,2 @@
+Hello, CMU 12-780!
+This is Luyao‘s first text file in assignment-0.
